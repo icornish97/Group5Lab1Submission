@@ -1,0 +1,19 @@
+---
+title: "Group 5 Lab 1 Submission"
+output: html_notebook
+---
+
+Group Member  |Ian Cornish | Austin Collins | Ross Ellingboe | Yiqi Wang 
+--------------|------------|----------------|----------------|-----------
+Githandle     |icornish97  |austin79        | null           | null 
+Pulls Made    |1           |1               |0               |0
+Pulls Accepted|1           |1               |0               |0
+
+
+## Making Github Easier
+1. Keep track of your change reasons so that when you come back to a project you can remember your changes. 
+2. Make sure to leave a description when you submit a pull request so that the original developer knows what changes you made. 
+3. Make sure to be careful when you merge so that you dont accidentally mess up the original code
+
+
+
