@@ -5,9 +5,9 @@ output: html_notebook
 
 Group Member  |Ian Cornish | Austin Collins | Ross Ellingboe | Yiqi Wang 
 --------------|------------|----------------|----------------|-----------
-Githandle     |icornish97  |austin79        | null           | null 
-Pulls Made    |1           |1               |0               |0
-Pulls Accepted|1           |1               |0               |0
+Githandle     |icornish97  |austin79        | ellingboe17           | null 
+Pulls Made    |1           |1               |1               |0
+Pulls Accepted|1           |1               |1               |0
 
 
 ## Making Github Easier
